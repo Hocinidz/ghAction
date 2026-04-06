@@ -9,6 +9,6 @@ jobs:
 
     steps:
       - name: print a welcome message
-        run echo " Welcom to our first Github action workflow "
+        run: echo " Welcom to our first Github action workflow "
         
   
